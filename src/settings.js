@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default",""],collisionMatrix:[[true],[false,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/UnicodeHero.fire",orientation:"",jsList:[]};
